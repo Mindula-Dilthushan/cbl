@@ -2,6 +2,8 @@ import javax.swing.*;
 
 public class MainForm extends JFrame {
     private JPanel mainPanel;
+    private JScrollPane scrollPane;
+    private JTextArea txtArea;
 
     public MainForm() {
         add(mainPanel);
