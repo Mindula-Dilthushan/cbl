@@ -1,1 +1,1 @@
-# CBL - Application
+# CBL - Desktop Application
